@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rohiticiicicicic/static/css/main.051bbe73.css",
+    "main.css": "/rohiticiicicicic/static/css/main.d837af4b.css",
     "main.js": "/rohiticiicicicic/static/js/main.b06f1cc9.js",
     "reactPlayerYouTube.js": "/rohiticiicicicic/static/js/reactPlayerYouTube.23e9b10e.chunk.js",
     "reactPlayerSoundCloud.js": "/rohiticiicicicic/static/js/reactPlayerSoundCloud.03f55659.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/BankQR .png": "/rohiticiicicicic/static/media/BankQR .993c1a7755d9b325d2ba.png",
     "static/media/logo.png": "/rohiticiicicicic/static/media/logo.32a40919f9c42a3dd50b.png",
     "index.html": "/rohiticiicicicic/index.html",
-    "main.051bbe73.css.map": "/rohiticiicicicic/static/css/main.051bbe73.css.map",
+    "main.d837af4b.css.map": "/rohiticiicicicic/static/css/main.d837af4b.css.map",
     "main.b06f1cc9.js.map": "/rohiticiicicicic/static/js/main.b06f1cc9.js.map",
     "reactPlayerYouTube.23e9b10e.chunk.js.map": "/rohiticiicicicic/static/js/reactPlayerYouTube.23e9b10e.chunk.js.map",
     "reactPlayerSoundCloud.03f55659.chunk.js.map": "/rohiticiicicicic/static/js/reactPlayerSoundCloud.03f55659.chunk.js.map",
@@ -43,7 +43,7 @@
     "453.bb88a305.chunk.js.map": "/rohiticiicicicic/static/js/453.bb88a305.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.051bbe73.css",
+    "static/css/main.d837af4b.css",
     "static/js/main.b06f1cc9.js"
   ]
 }
