@@ -1,0 +1,65 @@
+.icici-thank-you-container {
+    font-family: Arial, sans-serif;
+    /* max-width: 800px; */
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    width: '100vw';
+  }
+  
+  .icici-header {
+    background-color: #F37021;
+    padding: 10px;
+  }
+  
+  .icici-logo {
+    height: 30px;
+  }
+  
+  .icici-main {
+    padding: 40px 20px;
+    text-align: center;
+    height: 580px;
+    
+  }
+  
+  .thank-you-message {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 400px;
+    
+  }
+  
+  .check-icon {
+    font-size: 48px;
+    color: #4CAF50;
+    margin-bottom: 20px;
+    
+  }
+  
+  .thank-you-message h1 {
+    font-size: 29px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .thank-you-message p {
+    color: #666;
+    font-size: 20px;
+
+  }
+  
+  .icici-footer1 {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #8B0000;
+    color: white;
+    padding: 10px;
+    font-size: x-small;
+}
+
+.icici-footer1 p {
+    margin: 0; 
+}
