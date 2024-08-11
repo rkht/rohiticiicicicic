@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import "../StyleComponent/PopupForm.css"; // Add styling for the popup form
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
-import { FaBuilding, FaChartLine, FaMoneyBillWave } from "react-icons/fa";
 
 
 
