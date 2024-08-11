@@ -426,7 +426,7 @@ function App() {
             <div className="footer">
                 <span className="terms">
                     *Terms and Conditions of ICICI Bank apply. For details{" "}
-                    <a href="#details" className="click-here">
+                    <a href="/details" className="click-here">
                         Click Here.
                     </a>
                 </span>

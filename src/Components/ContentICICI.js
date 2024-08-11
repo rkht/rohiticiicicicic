@@ -81,7 +81,7 @@ const SolutionCard = ({ id, name, description, isSelected, onSelect, image }) =>
             <img src={image} alt={name} />
             <h3>{name}</h3>
             <p className="paragraf">{description}</p>
-            <a href="#" className="know-more">Know more</a>
+            <a href="/" className="know-more">Know more</a>
             <div className="toggle">
                 <div className={`toggle-slider ${isSelected ? "active" : ""}`}></div>
             </div>
